@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Prosecutor1x/Prosecutor1x/blob/main/Prosecutor.png"  alt="Girl in a jacket">
+<img src="https://github.com/Prosecutor1x/Prosecutor1x/blob/main/Prosecutor1.png"  alt="Girl in a jacket">
 
 <h1 align="center">Hi 👋, I'm Krishnarjun Nanda</h1>
 <h3 align="center">Welcome 🙌 to the github profile of a undergrad coding enthusiast... 💻</h3>
