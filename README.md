@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Prosecutor1x/Prosecutor1x/blob/main/Prosecutor.png">
+<img src="https://github.com/Prosecutor1x/Prosecutor1x/blob/main/Prosecutor.png"  alt="Girl in a jacket">
 
 <h1 align="center">Hi 👋, I'm Krishnarjun Nanda</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prosecutor1x" alt="prosecutor1x" /></a> </p>
