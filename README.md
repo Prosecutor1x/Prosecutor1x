@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Apps**
 
-- 💬 Ask me about **React Native and Redux**
+- 💬 Ask me about **React Native, Redux and Java Script**
 
 - 📫 How to reach me **krishnarjunnanda@gmail.com**
 
